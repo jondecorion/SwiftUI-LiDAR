@@ -56,8 +56,8 @@ Built as a lightweight tool to quickly capture and explore 3D spaces, intended f
 
 Adapted from the [repository](https://github.com/kelvinjou/VirtualShowrooms) created by [kelvinjou](https://github.com/kelvinjou). You can also follow through the tutorials posted on the [YouTube](https://www.youtube.com/@kelvinjou-dev/videos) channel.
 
-[Part 1](https://www.youtube.com/watch?v=At6zjsxh9AY)
-[Part 2](https://www.youtube.com/watch?v=6NP3sHAxMz8&t)
+- [Part 1](https://www.youtube.com/watch?v=At6zjsxh9AY)
+- [Part 2](https://www.youtube.com/watch?v=6NP3sHAxMz8&t)
 
 ## 📄 License
 
