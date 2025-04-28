@@ -28,7 +28,7 @@ A SwiftUI-based iOS app that leverages Apple's LiDAR sensors and ARKit to scan r
 
 1.  Clone the repository:
 
-    `git clone https://github.com/yourusername/lidar-3d-scanner.git` 
+    `git clone https://github.com/cedanmisquith/SwiftLiDAR` 
     
 3.  Open the project in Xcode.
     
