@@ -44,11 +44,17 @@ A SwiftUI-based iOS app that leverages Apple's LiDAR sensors and ARKit to scan r
 -   RealityKit
     
 -   SceneKit (.OBJ file handling)
-    
+
+## 🎥 Screen Recordings
+3D Scanning               |  View Scans
+:-------------------------:|:-------------------------:
+![](https://github.com/cedanmisquith/SwiftLiDAR/blob/main/Screenshots/Capture%203D%20Scan.gif)   |   ![](https://github.com/cedanmisquith/SwiftLiDAR/blob/main/Screenshots/View%203D%20Scan.gif)
 
 ## 📸 Screenshots
 
-
+3D Scanning               |  View Scans
+:-------------------------:|:-------------------------:
+![](https://github.com/cedanmisquith/SwiftLiDAR/blob/main/Screenshots/3D%20Scanning.PNG)  |  ![](https://github.com/cedanmisquith/SwiftLiDAR/blob/main/Screenshots/View%203D%20Scan%20.PNG)
 
 ## 🧠 Inspiration
 
