@@ -12,7 +12,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftUILiDAR",
     platforms: [
-        .iOS(.v16)
+        .iOS(.v17)
     ],
     products: [
         .library(
