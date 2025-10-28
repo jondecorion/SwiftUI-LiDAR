@@ -1,6 +1,8 @@
+// swift-tools-version:5.7
+
 //
 //  Package.swift
-//  
+//
 //
 //  Created by jonathan decorion on 10/28/25.
 //
